@@ -4,7 +4,7 @@
 * A List Apart http://alistapart.com/
 * Google reference for amazing web experiences https://developers.google.com/web/fundamentals/
 * Apple HIG https://developer.apple.com/ios/human-interface-guidelines/overview/themes/
-
+* Medium - select your interests https://medium.com/
 
 ## Design Inspiration
 * AWWWARDS https://www.awwwards.com/
@@ -49,3 +49,6 @@
 * ReactStrap https://reactstrap.github.io/
 * Sematic UI https://semantic-ui.com/
 * Complete Guide To Flexbox https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+## CSS Animations
+* Improve User Experience https://conversionxl.com/blog/animation-improve-user-experience/
