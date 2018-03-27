@@ -6,6 +6,11 @@
 * Apple HIG https://developer.apple.com/ios/human-interface-guidelines/overview/themes/
 * Medium - select your interests https://medium.com/
 
+## UIX Articles and Such
+* UIE (Jarod Spool) https://www.uie.com/
+* Don't Make Me Think (downloads) http://sensible.com/downloads-rsme.html
+* Don't Make Me Think Summary https://www.interaction-design.org/literature/article/don-t-make-me-think-key-learning-points-for-ux-design-for-the-web
+
 ## Assets: fonts, graphics, templates and more
 * Creative Market - sign up for free stuff. https://creativemarket.com/
 * Template Train - sign up for free stuff. https://templatetrain.com
@@ -57,3 +62,4 @@
 
 ## CSS Animations
 * Improve User Experience https://conversionxl.com/blog/animation-improve-user-experience/
+* Functional Animation Improves UX https://www.smashingmagazine.com/2017/01/how-functional-animation-helps-improve-user-experience/
