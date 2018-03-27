@@ -7,7 +7,9 @@
 * Medium - select your interests https://medium.com/
 
 ## Assets: fonts, graphics, templates and more
-* Creative Market https://creativemarket.com/
+* Creative Market - sign up for free stuff. https://creativemarket.com/
+* Template Train - sign up for free stuff. https://templatetrain.com
+* Freeies Bug https://freebiesbug.com
 
 ## Design Inspiration
 * AWWWARDS https://www.awwwards.com/
