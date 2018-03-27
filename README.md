@@ -1,10 +1,13 @@
 # Useful Resources for Front-End Design
 
-## Design, development, and meaning of web content
+## Articles about design, development, and meaning of web content 
 * A List Apart http://alistapart.com/
 * Google reference for amazing web experiences https://developers.google.com/web/fundamentals/
 * Apple HIG https://developer.apple.com/ios/human-interface-guidelines/overview/themes/
 * Medium - select your interests https://medium.com/
+
+## Assets: fonts, graphics, templates and more
+* Creative Market https://creativemarket.com/
 
 ## Design Inspiration
 * AWWWARDS https://www.awwwards.com/
@@ -24,7 +27,7 @@
 * Mobile Patterns http://mobile-patterns.com/
 
 
-## Template Inspiration
+## Templates and Inspiration
 * Template Monster https://www.templatemonster.com/
 * ThemeForest https://themeforest.net/
 
