@@ -51,14 +51,15 @@
 * Trendy Color Tools: https://www.awwwards.com/trendy-web-color-palettes-and-material-design-color-schemes-tools.html
 * Adobe Color: https://color.adobe.com
 * Material Resources Download: https://material.io/guidelines/resources/color-palettes.html
-
+* Color Contrast Checker: https://webaim.org/resources/contrastchecker/
 
 ## CSS Related
+* Flexbox CSS-Tricks: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+* Flexbox Cheatsheet: https://yoksel.github.io/flex-cheatsheet/
 * Bootstrap https://getbootstrap.com/
 * Materialize http://materializecss.com/ 
 * ReactStrap https://reactstrap.github.io/
 * Sematic UI https://semantic-ui.com/
-* Complete Guide To Flexbox https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 ## CSS Animations
 * Improve User Experience https://conversionxl.com/blog/animation-improve-user-experience/
