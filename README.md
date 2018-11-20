@@ -64,3 +64,10 @@
 ## CSS Animations
 * Improve User Experience https://conversionxl.com/blog/animation-improve-user-experience/
 * Functional Animation Improves UX https://www.smashingmagazine.com/2017/01/how-functional-animation-helps-improve-user-experience/
+
+## JavaScript
+* Nice Call Stack Diagram: https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff
+
+## Data and ERD
+* Diagram Tool: https://dbdiagram.io/
+* JSON Server: https://github.com/typicode/json-server
