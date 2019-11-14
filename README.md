@@ -17,10 +17,12 @@
 * Freeies Bug https://freebiesbug.com
 
 ## Images
+  * [FreePik](https://www.freepik.com/)
   * [PXHere](https://pxhere.com/)
-  * [UnSplash](https://unsplash.com/
+  * [UnSplash](https://unsplash.com/)
 
 ## Design Inspiration
+* Land-Book https://land-book.com/
 * AWWWARDS https://www.awwwards.com/
 * Best Website Gallery https://bestwebsite.gallery/
 * CSS Nectar https://cssnectar.com/
