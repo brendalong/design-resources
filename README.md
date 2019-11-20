@@ -16,6 +16,13 @@
 * Template Train - sign up for free stuff. https://templatetrain.com
 * Freeies Bug https://freebiesbug.com
 
+## Generate Logo Quickly
+* https://canva.com
+* https://www.freelogodesign.org/
+* https://logomakr.com/
+* https://brandmark.io/ (price options)
+
+
 ## Images
   * [FreePik](https://www.freepik.com/)
   * [PXHere](https://pxhere.com/)
