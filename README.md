@@ -1,4 +1,4 @@
-# Useful Resources for Front-End Design
+# Useful Resources for Front-End Design and UI/UX
 
 ## Articles about design, development, and meaning of web content 
 * A List Apart http://alistapart.com/
@@ -12,18 +12,26 @@
 * Don't Make Me Think Summary https://www.interaction-design.org/literature/article/don-t-make-me-think-key-learning-points-for-ux-design-for-the-web
 * Design Interaction Articles https://www.interaction-design.org/literature
 * DesignOps Community (with video events) https://rosenfeldmedia.com/designops-community/
+* Handbook of Useability Testing, Rubin
+* Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems, Krug
+* The Design of Everyday Things, Norman
+* About Face: Interaction Design, Cooper
 
 ## Design/Prototype Tools
 * [Figma](https://figma.com)
 * [Sketch](https://sketch.com)
 * [AdobeXD](https://www.adobe.com/products/xd.html)
 * [Axure](https://www.axure.com/)
+* [Marvel](https://marvelapp.com/)
+* [Miro - whiteboard](https://miro.com/)
 
 ## User Testing
 * [Zoom](https://zoom.us/): Video Conference Tool, available with participants
 * [Maze](https://maze.design/): User Testing Platform
 * [Testing Time](https://www.testingtime.com/): usability tests, focus groups, interviews, surveys
 * [Usability Testing 1010](https://www.nngroup.com/articles/usability-testing-101/)
+* [5 Users](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/)
+* Test Plan - google it.
 
 ## Assets: fonts, graphics, templates and more
 * Creative Market - sign up for free stuff. https://creativemarket.com/
@@ -36,12 +44,25 @@
 * https://logomakr.com/
 * https://brandmark.io/ (price options)
 
-
 ## Images
   * [FreePik](https://www.freepik.com/)
   * [PXHere](https://pxhere.com/)
   * [UnSplash](https://unsplash.com/)
   * [Humaaans](https://www.humaaans.com/)
+  
+## Design Systems
+ * [Material](https://material.io/)
+ * [Shopify](https://polaris.shopify.com/)
+ * [MailChimp](https://ux.mailchimp.com/patterns/color)
+ * [HubSpot](https://canvas.hubspot.com/)
+ * [Atlassian (Trello)](https://www.atlassian.design/)
+ * [Uber](https://brand.uber.com/)
+ * [Lightening - Salesforce(enterprise)](https://www.lightningdesignsystem.com/)
+ * [BBC](https://www.bbc.co.uk/gel)
+ * [Lonely Planet](https://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
+ * [Apple HIG and other downloads](https://developer.apple.com/design/)
+ * [Microsoft UI Fabric](https://developer.microsoft.com/en-us/fabric#/get-started)
+ 
 
 ## Design Inspiration
 * Land-Book https://land-book.com/
@@ -97,3 +118,7 @@
 * Diagram Tool: https://dbdiagram.io/
 * JSON Server: https://github.com/typicode/json-server
 * Google Firebase: https://firebase.google.com
+* [Mockaroo](https://mockaroo.com/): Data generator
+
+## Videos
+* [Design Sprint Workshop](https://youtu.be/JTqCR84fzeg)
