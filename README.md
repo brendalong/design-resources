@@ -62,6 +62,7 @@
  * [Lonely Planet](https://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
  * [Apple HIG and other downloads](https://developer.apple.com/design/)
  * [Microsoft UI Fabric](https://developer.microsoft.com/en-us/fabric#/get-started)
+ * [And a few more](https://designsystemsrepo.com/design-systems/)
  
 
 ## Design Inspiration
