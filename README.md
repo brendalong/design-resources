@@ -10,6 +10,20 @@
 * UIE (Jarod Spool) https://www.uie.com/
 * Don't Make Me Think (downloads) http://sensible.com/downloads-rsme.html
 * Don't Make Me Think Summary https://www.interaction-design.org/literature/article/don-t-make-me-think-key-learning-points-for-ux-design-for-the-web
+* Design Interaction Articles https://www.interaction-design.org/literature
+* DesignOps Community (with video events) https://rosenfeldmedia.com/designops-community/
+
+## Design/Prototype Tools
+* [Figma](https://figma.com)
+* [Sketch](https://sketch.com)
+* [AdobeXD](https://www.adobe.com/products/xd.html)
+* [Axure](https://www.axure.com/)
+
+## User Testing
+* [Zoom](https://zoom.us/): Video Conference Tool, available with participants
+* [Maze](https://maze.design/): User Testing Platform
+* [Testing Time](https://www.testingtime.com/): usability tests, focus groups, interviews, surveys
+* [Usability Testing 1010](https://www.nngroup.com/articles/usability-testing-101/)
 
 ## Assets: fonts, graphics, templates and more
 * Creative Market - sign up for free stuff. https://creativemarket.com/
@@ -27,6 +41,7 @@
   * [FreePik](https://www.freepik.com/)
   * [PXHere](https://pxhere.com/)
   * [UnSplash](https://unsplash.com/)
+  * [Humaaans](https://www.humaaans.com/)
 
 ## Design Inspiration
 * Land-Book https://land-book.com/
@@ -46,17 +61,14 @@
 * Mobile App Design Patterns https://pttrns.com/
 * Mobile Patterns http://mobile-patterns.com/
 
-
 ## Templates and Inspiration
 * Template Monster https://www.templatemonster.com/
 * ThemeForest https://themeforest.net/
-
 
 ## Design and Layout Principles
 * Gestalt Theory in Typography & Design Principles http://www.howdesign.com/resources-education/online-design-courses-education/gestalt-theory-typography-design-principles/
 * Designers Guide to Gestalt Theory https://www.creativebloq.com/graphic-design/gestalt-theory-10134960
 * Gestalt Thoery for UX Design: Proximity https://uxplanet.org/gestalt-theory-for-ux-design-principle-of-proximity-e56b136d52d1
-
 
 ## Colors
 * Colors: a nicer color palette for the web http://clrs.cc/
@@ -84,3 +96,4 @@
 ## Data and ERD
 * Diagram Tool: https://dbdiagram.io/
 * JSON Server: https://github.com/typicode/json-server
+* Google Firebase: https://firebase.google.com
