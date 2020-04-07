@@ -45,6 +45,7 @@
 * https://brandmark.io/ (price options)
 
 ## Images
+  * [Fotor] (https://www.fotor.com/)
   * [FreePik](https://www.freepik.com/)
   * [PXHere](https://pxhere.com/)
   * [UnSplash](https://unsplash.com/)
@@ -84,6 +85,7 @@
 * Mobile Patterns http://mobile-patterns.com/
 
 ## Templates and Inspiration
+* HTML5Up https://html5up.net/
 * Template Monster https://www.templatemonster.com/
 * ThemeForest https://themeforest.net/
 
@@ -93,10 +95,10 @@
 * Gestalt Thoery for UX Design: Proximity https://uxplanet.org/gestalt-theory-for-ux-design-principle-of-proximity-e56b136d52d1
 
 ## Colors
+* Adobe Color: https://color.adobe.com/create/color-wheel/
 * Colors: a nicer color palette for the web http://clrs.cc/
 * Colors: accessible combos http://clrs.cc/a11y/
 * Trendy Color Tools: https://www.awwwards.com/trendy-web-color-palettes-and-material-design-color-schemes-tools.html
-* Adobe Color: https://color.adobe.com
 * Material Resources Download: https://material.io/guidelines/resources/color-palettes.html
 * Color Contrast Checker: https://webaim.org/resources/contrastchecker/
 
