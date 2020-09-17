@@ -102,6 +102,9 @@
 * Material Resources Download: https://material.io/guidelines/resources/color-palettes.html
 * Color Contrast Checker: https://webaim.org/resources/contrastchecker/
 
+## Font and Text
+* EM vs REM: https://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984
+
 ## CSS Related
 * Flexbox CSS-Tricks: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 * Flexbox Cheatsheet: https://yoksel.github.io/flex-cheatsheet/
