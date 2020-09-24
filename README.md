@@ -36,7 +36,9 @@
 ## Assets: fonts, graphics, templates and more
 * Creative Market - sign up for free stuff. https://creativemarket.com/
 * Template Train - sign up for free stuff. https://templatetrain.com
-* Freeies Bug https://freebiesbug.com
+* Freeies Bug - https://freebiesbug.com
+* Figma Templates - https://elements.envato.com/graphic-templates/compatible-with-figma
+* Design Kit - https://www.designkit.org/
 
 ## Generate Logo Quickly
 * https://canva.com
