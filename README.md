@@ -96,6 +96,9 @@
 * Designers Guide to Gestalt Theory https://www.creativebloq.com/graphic-design/gestalt-theory-10134960
 * Gestalt Thoery for UX Design: Proximity https://uxplanet.org/gestalt-theory-for-ux-design-principle-of-proximity-e56b136d52d1
 
+## Accessibility
+* Web Accessibility Tips: https://www.w3.org/WAI/tips/
+
 ## Colors
 * Adobe Color: https://color.adobe.com/create/color-wheel/
 * Colors: a nicer color palette for the web http://clrs.cc/
