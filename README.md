@@ -24,6 +24,7 @@
 * [Axure](https://www.axure.com/)
 * [Marvel](https://marvelapp.com/)
 * [Miro - whiteboard](https://miro.com/)
+* [Make Figma Plugin with React](https://blog.logrocket.com/building-figma-plugins-with-react/)
 
 ## User Testing
 * [Zoom](https://zoom.us/): Video Conference Tool, available with participants
@@ -117,6 +118,8 @@
 * Materialize http://materializecss.com/ 
 * ReactStrap https://reactstrap.github.io/
 * Sematic UI https://semantic-ui.com/
+* List of UI Kits: https://blog.logrocket.com/top-7-ui-libraries-and-kits-for-react/
+* CSS3 Course: https://wesbos.com/announcing-my-css-grid-course
 
 ## CSS Animations
 * Improve User Experience https://conversionxl.com/blog/animation-improve-user-experience/
