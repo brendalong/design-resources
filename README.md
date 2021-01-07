@@ -132,6 +132,7 @@
 ## Data and ERD
 * Diagram Tool: https://dbdiagram.io/
 * JSON Server: https://github.com/typicode/json-server
+  * [Mock Restful Server Fast With Json-Server](https://keyholesoftware.com/2020/03/16/mock-restful-server-fast-with-json-server/)
 * Google Firebase: https://firebase.google.com
 * [Mockaroo](https://mockaroo.com/): Data generator
 
