@@ -98,8 +98,11 @@
 * Designers Guide to Gestalt Theory https://www.creativebloq.com/graphic-design/gestalt-theory-10134960
 * Gestalt Thoery for UX Design: Proximity https://uxplanet.org/gestalt-theory-for-ux-design-principle-of-proximity-e56b136d52d1
 
-## Accessibility
+## Accessibility, Inclusion, & Diversity
 * Web Accessibility Tips: https://www.w3.org/WAI/tips/
+* [Inclusion - Video](https://www.microsoft.com/design/inclusive/)
+* Inclusive Design, Microsoft https://www.microsoft.com/design/inclusive/
+* [Accessible Design vs Inclusive Design](https://www.toptal.com/designers/ui/inclusive-design-infographic)
 
 ## Colors
 * Adobe Color: https://color.adobe.com/create/color-wheel/
