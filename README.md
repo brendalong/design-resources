@@ -132,6 +132,7 @@
 
 ## JavaScript
 * Nice Call Stack Diagram: https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff
+* React useEffect Explained: https://leewarrick.com/blog/react-use-effect-explained/
 
 ## Data and ERD
 * Diagram Tool: https://dbdiagram.io/
