@@ -124,13 +124,14 @@
 * ReactStrap https://reactstrap.github.io/
 * Sematic UI https://semantic-ui.com/
 * List of UI Kits: https://blog.logrocket.com/top-7-ui-libraries-and-kits-for-react/
-* CSS3 Course: https://wesbos.com/announcing-my-css-grid-course
+* CSS3 Course https://wesbos.com/announcing-my-css-grid-course
+* Flexbox React Component https://medium.com/better-programming/make-a-flexbox-react-component-e96a038da7ec
 
 ## CSS Animations
 * Improve User Experience https://conversionxl.com/blog/animation-improve-user-experience/
 * Functional Animation Improves UX https://www.smashingmagazine.com/2017/01/how-functional-animation-helps-improve-user-experience/
 
-## JavaScript
+## JavaScript/React
 * Nice Call Stack Diagram: https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff
 * React useEffect Explained: https://leewarrick.com/blog/react-use-effect-explained/
 
