@@ -115,6 +115,7 @@
 
 ## Font and Text
 * EM vs REM: https://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984
+* Ultimate Google Font Pairings: https://www.reliablepsd.com/ultimate-google-font-pairings/
 
 ## CSS Related
 * Flexbox CSS-Tricks: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
