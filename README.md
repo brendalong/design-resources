@@ -43,6 +43,7 @@
 * Design Kit - https://www.designkit.org/
 
 ## Generate Logo Quickly
+* https://realfavicongenerator.net/favicon_checker and https://realfavicongenerator.net/
 * https://canva.com
 * https://www.freelogodesign.org/
 * https://logomakr.com/
