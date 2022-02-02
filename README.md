@@ -144,6 +144,7 @@
   * [Mock Restful Server Fast With Json-Server](https://keyholesoftware.com/2020/03/16/mock-restful-server-fast-with-json-server/)
 * Google Firebase: https://firebase.google.com
 * [Mockaroo](https://mockaroo.com/): Data generator
+* JSON{Placeholder} https://jsonplaceholder.typicode.com/
 
 ## Videos
 * [Design Sprint Workshop](https://youtu.be/JTqCR84fzeg)
